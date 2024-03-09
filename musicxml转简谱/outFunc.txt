@@ -1,0 +1,2347 @@
+setblock ~1 ~ ~ grass_block
+setblock ~1 ~1 ~ minecraft:command_block
+setblock ~2 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~3 ~ ~ grass_block
+setblock ~3 ~1 ~ minecraft:command_block
+setblock ~4 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~5 ~ ~ grass_block
+setblock ~5 ~1 ~ minecraft:command_block
+setblock ~6 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~7 ~ ~ grass_block
+setblock ~7 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~8 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~9 ~ ~ grass_block
+setblock ~9 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~10 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~11 ~ ~ grass_block
+setblock ~11 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~12 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~13 ~ ~ grass_block
+setblock ~13 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~14 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~15 ~ ~ grass_block
+setblock ~15 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~16 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~17 ~ ~ grass_block
+setblock ~17 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~18 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~19 ~ ~ grass_block
+setblock ~19 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~20 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~21 ~ ~ grass_block
+setblock ~21 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~22 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~23 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~24 ~ ~ grass_block
+setblock ~24 ~1 ~ minecraft:command_block
+setblock ~25 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~26 ~ ~ grass_block
+setblock ~26 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~27 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~28 ~ ~ grass_block
+setblock ~28 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~29 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~30 ~ ~ grass_block
+setblock ~30 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~31 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~32 ~ ~ grass_block
+setblock ~32 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~33 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~34 ~ ~ grass_block
+setblock ~34 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~35 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~36 ~ ~ grass_block
+setblock ~36 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~37 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~38 ~ ~ grass_block
+setblock ~38 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~39 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~40 ~ ~ grass_block
+setblock ~40 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~41 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~42 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~43 ~ ~ grass_block
+setblock ~43 ~1 ~ minecraft:command_block
+setblock ~44 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~45 ~ ~ grass_block
+setblock ~45 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~46 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~47 ~ ~ grass_block
+setblock ~47 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~48 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~49 ~ ~ grass_block
+setblock ~49 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~50 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~51 ~ ~ grass_block
+setblock ~51 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~52 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~53 ~ ~ grass_block
+setblock ~53 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~54 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~55 ~ ~ grass_block
+setblock ~55 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~56 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~57 ~ ~ grass_block
+setblock ~57 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~58 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~59 ~ ~ grass_block
+setblock ~59 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~60 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~61 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~62 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~63 ~ ~ grass_block
+setblock ~63 ~1 ~ minecraft:command_block
+setblock ~64 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~65 ~ ~ grass_block
+setblock ~65 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~66 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~67 ~ ~ grass_block
+setblock ~67 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~68 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~69 ~ ~ grass_block
+setblock ~69 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~70 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~71 ~ ~ grass_block
+setblock ~71 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~72 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~73 ~ ~ grass_block
+setblock ~73 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~74 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~75 ~ ~ grass_block
+setblock ~75 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~76 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~77 ~ ~ grass_block
+setblock ~77 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~78 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~79 ~ ~ grass_block
+setblock ~79 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~80 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~81 ~ ~ grass_block
+setblock ~81 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~82 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~83 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~84 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~85 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~86 ~ ~ grass_block
+setblock ~86 ~1 ~ minecraft:command_block
+setblock ~87 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~88 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~89 ~ ~ grass_block
+setblock ~89 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~90 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~91 ~ ~ grass_block
+setblock ~91 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~92 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~93 ~ ~ grass_block
+setblock ~93 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~94 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~95 ~ ~ grass_block
+setblock ~95 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~96 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~97 ~ ~ grass_block
+setblock ~97 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~98 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~99 ~ ~ grass_block
+setblock ~99 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~100 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~101 ~ ~ grass_block
+setblock ~101 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~102 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~103 ~ ~ grass_block
+setblock ~103 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~104 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~105 ~ ~ grass_block
+setblock ~105 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~106 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~107 ~ ~ grass_block
+setblock ~107 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~108 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~109 ~ ~ grass_block
+setblock ~109 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~110 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~111 ~ ~ grass_block
+setblock ~111 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~112 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~113 ~ ~ grass_block
+setblock ~113 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~114 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~115 ~ ~ grass_block
+setblock ~115 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~116 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~117 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~118 ~ ~ grass_block
+setblock ~118 ~1 ~ minecraft:command_block
+setblock ~119 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~120 ~ ~ grass_block
+setblock ~120 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~121 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~122 ~ ~ grass_block
+setblock ~122 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~123 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~124 ~ ~ grass_block
+setblock ~124 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~125 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~126 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~127 ~ ~ grass_block
+setblock ~127 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~128 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~129 ~ ~ grass_block
+setblock ~129 ~1 ~ minecraft:command_block
+setblock ~130 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~131 ~ ~ grass_block
+setblock ~131 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~132 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~133 ~ ~ grass_block
+setblock ~133 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~134 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~135 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~136 ~ ~ grass_block
+setblock ~136 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~137 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~138 ~ ~ grass_block
+setblock ~138 ~1 ~ minecraft:command_block
+setblock ~139 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~140 ~ ~ grass_block
+setblock ~140 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~141 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~142 ~ ~ grass_block
+setblock ~142 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~143 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~144 ~ ~ grass_block
+setblock ~144 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~145 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~146 ~ ~ grass_block
+setblock ~146 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~147 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~148 ~ ~ grass_block
+setblock ~148 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~149 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~150 ~ ~ grass_block
+setblock ~150 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~151 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~152 ~ ~ grass_block
+setblock ~152 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~153 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~154 ~ ~ grass_block
+setblock ~154 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~155 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~156 ~ ~ grass_block
+setblock ~156 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~157 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~158 ~ ~ grass_block
+setblock ~158 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~159 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~160 ~ ~ grass_block
+setblock ~160 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~161 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~162 ~ ~ grass_block
+setblock ~162 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~163 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~164 ~ ~ grass_block
+setblock ~164 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~165 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~166 ~ ~ grass_block
+setblock ~166 ~1 ~ minecraft:command_block
+setblock ~167 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~168 ~ ~ grass_block
+setblock ~168 ~1 ~ minecraft:command_block
+setblock ~169 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~170 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~171 ~ ~ grass_block
+setblock ~171 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~172 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~173 ~ ~ grass_block
+setblock ~173 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~174 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~175 ~ ~ grass_block
+setblock ~175 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~176 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~177 ~ ~ grass_block
+setblock ~177 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~178 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~179 ~ ~ grass_block
+setblock ~179 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~180 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~181 ~ ~ grass_block
+setblock ~181 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~182 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~183 ~ ~ grass_block
+setblock ~183 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~184 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~185 ~ ~ grass_block
+setblock ~185 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~186 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~187 ~ ~ grass_block
+setblock ~187 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~188 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~189 ~ ~ grass_block
+setblock ~189 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~190 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~191 ~ ~ grass_block
+setblock ~191 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~192 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~193 ~ ~ grass_block
+setblock ~193 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~194 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~195 ~ ~ grass_block
+setblock ~195 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~196 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~197 ~ ~ grass_block
+setblock ~197 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~198 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~199 ~ ~ grass_block
+setblock ~199 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~200 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~201 ~ ~ grass_block
+setblock ~201 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~202 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~203 ~ ~ grass_block
+setblock ~203 ~1 ~ minecraft:command_block
+setblock ~204 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~205 ~ ~ grass_block
+setblock ~205 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~206 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~207 ~ ~ grass_block
+setblock ~207 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~208 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~209 ~ ~ grass_block
+setblock ~209 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~210 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~211 ~ ~ grass_block
+setblock ~211 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~212 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~213 ~ ~ grass_block
+setblock ~213 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~214 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~215 ~ ~ grass_block
+setblock ~215 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~216 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~217 ~ ~ grass_block
+setblock ~217 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~218 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~219 ~ ~ grass_block
+setblock ~219 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~220 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~221 ~ ~ grass_block
+setblock ~221 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~222 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~223 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~224 ~ ~ grass_block
+setblock ~224 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~225 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~226 ~ ~ grass_block
+setblock ~226 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~227 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~228 ~ ~ grass_block
+setblock ~228 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~229 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~230 ~ ~ grass_block
+setblock ~230 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~231 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~232 ~ ~ grass_block
+setblock ~232 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~233 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~234 ~ ~ grass_block
+setblock ~234 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~235 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~236 ~ ~ grass_block
+setblock ~236 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~237 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~238 ~ ~ grass_block
+setblock ~238 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~239 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~240 ~ ~ grass_block
+setblock ~240 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~241 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~242 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~243 ~ ~ grass_block
+setblock ~243 ~1 ~ minecraft:command_block
+setblock ~244 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~245 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~246 ~ ~ grass_block
+setblock ~246 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~247 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~248 ~ ~ grass_block
+setblock ~248 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~249 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~250 ~ ~ grass_block
+setblock ~250 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~251 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~252 ~ ~ grass_block
+setblock ~252 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~253 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~254 ~ ~ grass_block
+setblock ~254 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~255 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~256 ~ ~ grass_block
+setblock ~256 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~257 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~258 ~ ~ grass_block
+setblock ~258 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~259 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~260 ~ ~ grass_block
+setblock ~260 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~261 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~262 ~ ~ grass_block
+setblock ~262 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~263 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~264 ~ ~ grass_block
+setblock ~264 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~265 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~266 ~ ~ grass_block
+setblock ~266 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~267 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~268 ~ ~ grass_block
+setblock ~268 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~269 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~270 ~ ~ grass_block
+setblock ~270 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~271 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~272 ~ ~ grass_block
+setblock ~272 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~273 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~274 ~ ~ grass_block
+setblock ~274 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~275 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~276 ~ ~ grass_block
+setblock ~276 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~277 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~278 ~ ~ grass_block
+setblock ~278 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~279 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~280 ~ ~ grass_block
+setblock ~280 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~281 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~282 ~ ~ grass_block
+setblock ~282 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~283 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~284 ~ ~ grass_block
+setblock ~284 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~285 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~286 ~ ~ grass_block
+setblock ~286 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~287 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~288 ~ ~ grass_block
+setblock ~288 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p60fff record @a ~ ~ ~"}
+setblock ~289 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~290 ~ ~ grass_block
+setblock ~290 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~291 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~292 ~ ~ grass_block
+setblock ~292 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~293 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~294 ~ ~ grass_block
+setblock ~294 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~295 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~296 ~ ~ grass_block
+setblock ~296 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~297 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~298 ~ ~ grass_block
+setblock ~298 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~299 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~300 ~ ~ grass_block
+setblock ~300 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~301 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~302 ~ ~ grass_block
+setblock ~302 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~303 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~304 ~ ~ grass_block
+setblock ~304 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~305 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~306 ~ ~ grass_block
+setblock ~306 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~307 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~308 ~ ~ grass_block
+setblock ~308 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~309 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~310 ~ ~ grass_block
+setblock ~310 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~311 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~312 ~ ~ grass_block
+setblock ~312 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~313 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~314 ~ ~ grass_block
+setblock ~314 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~315 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~316 ~ ~ grass_block
+setblock ~316 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~317 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~318 ~ ~ grass_block
+setblock ~318 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~319 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~320 ~ ~ grass_block
+setblock ~320 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~321 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~322 ~ ~ grass_block
+setblock ~322 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~323 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~324 ~ ~ grass_block
+setblock ~324 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~325 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~326 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~327 ~ ~ grass_block
+setblock ~327 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~328 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~329 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~330 ~ ~ grass_block
+setblock ~330 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~331 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~332 ~ ~ grass_block
+setblock ~332 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~333 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~334 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~335 ~ ~ grass_block
+setblock ~335 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~336 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~337 ~ ~ grass_block
+setblock ~337 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~338 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~339 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~340 ~ ~ grass_block
+setblock ~340 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~341 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~342 ~ ~ grass_block
+setblock ~342 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~343 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~344 ~ ~ grass_block
+setblock ~344 ~1 ~ minecraft:command_block
+setblock ~345 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~346 ~ ~ grass_block
+setblock ~346 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~347 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~348 ~ ~ grass_block
+setblock ~348 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~349 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~350 ~ ~ grass_block
+setblock ~350 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~351 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~352 ~ ~ grass_block
+setblock ~352 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~353 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~354 ~ ~ grass_block
+setblock ~354 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~355 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~356 ~ ~ grass_block
+setblock ~356 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~357 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~358 ~ ~ grass_block
+setblock ~358 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~359 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~360 ~ ~ grass_block
+setblock ~360 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~361 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~362 ~ ~ grass_block
+setblock ~362 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~363 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~364 ~ ~ grass_block
+setblock ~364 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~365 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~366 ~ ~ grass_block
+setblock ~366 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~367 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~368 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~369 ~ ~ grass_block
+setblock ~369 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~370 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~371 ~ ~ grass_block
+setblock ~371 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~372 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~373 ~ ~ grass_block
+setblock ~373 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~374 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~375 ~ ~ grass_block
+setblock ~375 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~376 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~377 ~ ~ grass_block
+setblock ~377 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~378 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~379 ~ ~ grass_block
+setblock ~379 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~380 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~381 ~ ~ grass_block
+setblock ~381 ~1 ~ minecraft:command_block
+setblock ~382 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~383 ~ ~ grass_block
+setblock ~383 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~384 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~385 ~ ~ grass_block
+setblock ~385 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~386 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~387 ~ ~ grass_block
+setblock ~387 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~388 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~389 ~ ~ grass_block
+setblock ~389 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~390 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~391 ~ ~ grass_block
+setblock ~391 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~392 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~393 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~394 ~ ~ grass_block
+setblock ~394 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~395 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~396 ~ ~ grass_block
+setblock ~396 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~397 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~398 ~ ~ grass_block
+setblock ~398 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~399 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~400 ~ ~ grass_block
+setblock ~400 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~401 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~402 ~ ~ grass_block
+setblock ~402 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~403 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~404 ~ ~ grass_block
+setblock ~404 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~405 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~406 ~ ~ grass_block
+setblock ~406 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~407 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~408 ~ ~ grass_block
+setblock ~408 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~409 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~410 ~ ~ grass_block
+setblock ~410 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~411 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~412 ~ ~ grass_block
+setblock ~412 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~413 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~414 ~ ~ grass_block
+setblock ~414 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~415 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~416 ~ ~ grass_block
+setblock ~416 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~417 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~418 ~ ~ grass_block
+setblock ~418 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~419 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~420 ~ ~ grass_block
+setblock ~420 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~421 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~422 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~423 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~424 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~425 ~ ~ grass_block
+setblock ~425 ~1 ~ minecraft:command_block
+setblock ~426 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~427 ~ ~ grass_block
+setblock ~427 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~428 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~429 ~ ~ grass_block
+setblock ~429 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~430 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~431 ~ ~ grass_block
+setblock ~431 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~432 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~433 ~ ~ grass_block
+setblock ~433 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~434 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~435 ~ ~ grass_block
+setblock ~435 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~436 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~437 ~ ~ grass_block
+setblock ~437 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~438 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~439 ~ ~ grass_block
+setblock ~439 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~440 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~441 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~442 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~443 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~444 ~ ~ grass_block
+setblock ~444 ~1 ~ minecraft:command_block
+setblock ~445 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~446 ~ ~ grass_block
+setblock ~446 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~447 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~448 ~ ~ grass_block
+setblock ~448 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~449 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~450 ~ ~ grass_block
+setblock ~450 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~451 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~452 ~ ~ grass_block
+setblock ~452 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~453 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~454 ~ ~ grass_block
+setblock ~454 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p60fff record @a ~ ~ ~"}
+setblock ~455 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~456 ~ ~ grass_block
+setblock ~456 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~457 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~458 ~ ~ grass_block
+setblock ~458 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~459 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~460 ~ ~ grass_block
+setblock ~460 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~461 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~462 ~ ~ grass_block
+setblock ~462 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~463 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~464 ~ ~ grass_block
+setblock ~464 ~1 ~ minecraft:command_block
+setblock ~465 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~466 ~ ~ grass_block
+setblock ~466 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~467 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~468 ~ ~ grass_block
+setblock ~468 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~469 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~470 ~ ~ grass_block
+setblock ~470 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~471 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~472 ~ ~ grass_block
+setblock ~472 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~473 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~474 ~ ~ grass_block
+setblock ~474 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~475 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~476 ~ ~ grass_block
+setblock ~476 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~477 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~478 ~ ~ grass_block
+setblock ~478 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~479 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~480 ~ ~ grass_block
+setblock ~480 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~481 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~482 ~ ~ grass_block
+setblock ~482 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~483 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~484 ~ ~ grass_block
+setblock ~484 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~485 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~486 ~ ~ grass_block
+setblock ~486 ~1 ~ minecraft:command_block
+setblock ~487 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~488 ~ ~ grass_block
+setblock ~488 ~1 ~ minecraft:command_block
+setblock ~489 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~490 ~ ~ grass_block
+setblock ~490 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~491 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~492 ~ ~ grass_block
+setblock ~492 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~493 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~494 ~ ~ grass_block
+setblock ~494 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~495 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~496 ~ ~ grass_block
+setblock ~496 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~497 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~498 ~ ~ grass_block
+setblock ~498 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p60fff record @a ~ ~ ~"}
+setblock ~499 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~500 ~ ~ grass_block
+setblock ~500 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~501 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~502 ~ ~ grass_block
+setblock ~502 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~503 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~504 ~ ~ grass_block
+setblock ~504 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~505 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~506 ~ ~ grass_block
+setblock ~506 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~507 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~508 ~ ~ grass_block
+setblock ~508 ~1 ~ minecraft:command_block
+setblock ~509 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~510 ~ ~ grass_block
+setblock ~510 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~511 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~512 ~ ~ grass_block
+setblock ~512 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p63fff record @a ~ ~ ~"}
+setblock ~513 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~514 ~ ~ grass_block
+setblock ~514 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p65fff record @a ~ ~ ~"}
+setblock ~515 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~516 ~ ~ grass_block
+setblock ~516 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p63fff record @a ~ ~ ~"}
+setblock ~517 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~518 ~ ~ grass_block
+setblock ~518 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~519 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~520 ~ ~ grass_block
+setblock ~520 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~521 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~522 ~ ~ grass_block
+setblock ~522 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~523 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~524 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~525 ~ ~ grass_block
+setblock ~525 ~1 ~ minecraft:command_block
+setblock ~526 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~527 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~528 ~ ~ grass_block
+setblock ~528 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~529 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~530 ~ ~ grass_block
+setblock ~530 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~531 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~532 ~ ~ grass_block
+setblock ~532 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~533 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~534 ~ ~ grass_block
+setblock ~534 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~535 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~536 ~ ~ grass_block
+setblock ~536 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p60fff record @a ~ ~ ~"}
+setblock ~537 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~538 ~ ~ grass_block
+setblock ~538 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~539 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~540 ~ ~ grass_block
+setblock ~540 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~541 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~542 ~ ~ grass_block
+setblock ~542 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~543 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~544 ~ ~ grass_block
+setblock ~544 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~545 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~546 ~ ~ grass_block
+setblock ~546 ~1 ~ minecraft:command_block
+setblock ~547 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~548 ~ ~ grass_block
+setblock ~548 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~549 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~550 ~ ~ grass_block
+setblock ~550 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~551 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~552 ~ ~ grass_block
+setblock ~552 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~553 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~554 ~ ~ grass_block
+setblock ~554 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~555 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~556 ~ ~ grass_block
+setblock ~556 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~557 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~558 ~ ~ grass_block
+setblock ~558 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~559 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~560 ~ ~ grass_block
+setblock ~560 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~561 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~562 ~ ~ grass_block
+setblock ~562 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~563 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~564 ~ ~ grass_block
+setblock ~564 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~565 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~566 ~ ~ grass_block
+setblock ~566 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~567 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~568 ~ ~ grass_block
+setblock ~568 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~569 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~570 ~ ~ grass_block
+setblock ~570 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~571 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~572 ~ ~ grass_block
+setblock ~572 ~1 ~ minecraft:command_block
+setblock ~573 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~574 ~ ~ grass_block
+setblock ~574 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~575 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~576 ~ ~ grass_block
+setblock ~576 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~577 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~578 ~ ~ grass_block
+setblock ~578 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~579 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~580 ~ ~ grass_block
+setblock ~580 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~581 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~582 ~ ~ grass_block
+setblock ~582 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~583 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~584 ~ ~ grass_block
+setblock ~584 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~585 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~586 ~ ~ grass_block
+setblock ~586 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p46fff record @a ~ ~ ~"}
+setblock ~587 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~588 ~ ~ grass_block
+setblock ~588 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~589 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~590 ~ ~ grass_block
+setblock ~590 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~591 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~592 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~593 ~ ~ grass_block
+setblock ~593 ~1 ~ minecraft:command_block
+setblock ~594 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~595 ~ ~ grass_block
+setblock ~595 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~596 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~597 ~ ~ grass_block
+setblock ~597 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~598 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~599 ~ ~ grass_block
+setblock ~599 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~600 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~601 ~ ~ grass_block
+setblock ~601 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~602 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~603 ~ ~ grass_block
+setblock ~603 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~604 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~605 ~ ~ grass_block
+setblock ~605 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~606 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~607 ~ ~ grass_block
+setblock ~607 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~608 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~609 ~ ~ grass_block
+setblock ~609 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~610 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~611 ~ ~ grass_block
+setblock ~611 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~612 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~613 ~ ~ grass_block
+setblock ~613 ~1 ~ minecraft:command_block
+setblock ~614 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~615 ~ ~ grass_block
+setblock ~615 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~616 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~617 ~ ~ grass_block
+setblock ~617 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~618 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~619 ~ ~ grass_block
+setblock ~619 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~620 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~621 ~ ~ grass_block
+setblock ~621 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~622 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~623 ~ ~ grass_block
+setblock ~623 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~624 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~625 ~ ~ grass_block
+setblock ~625 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~626 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~627 ~ ~ grass_block
+setblock ~627 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~628 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~629 ~ ~ grass_block
+setblock ~629 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~630 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~631 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~632 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~633 ~ ~ grass_block
+setblock ~633 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~634 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~635 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~636 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~637 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~638 ~ ~ grass_block
+setblock ~638 ~1 ~ minecraft:command_block
+setblock ~639 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~640 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~641 ~ ~ grass_block
+setblock ~641 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~642 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~643 ~ ~ grass_block
+setblock ~643 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~644 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~645 ~ ~ grass_block
+setblock ~645 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~646 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~647 ~ ~ grass_block
+setblock ~647 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~648 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~649 ~ ~ grass_block
+setblock ~649 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~650 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~651 ~ ~ grass_block
+setblock ~651 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~652 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~653 ~ ~ grass_block
+setblock ~653 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~654 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~655 ~ ~ grass_block
+setblock ~655 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~656 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~657 ~ ~ grass_block
+setblock ~657 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~658 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~659 ~ ~ grass_block
+setblock ~659 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~660 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~661 ~ ~ grass_block
+setblock ~661 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~662 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~663 ~ ~ grass_block
+setblock ~663 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~664 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~665 ~ ~ grass_block
+setblock ~665 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~666 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~667 ~ ~ grass_block
+setblock ~667 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~668 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~669 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~670 ~ ~ grass_block
+setblock ~670 ~1 ~ minecraft:command_block
+setblock ~671 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~672 ~ ~ grass_block
+setblock ~672 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~673 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~674 ~ ~ grass_block
+setblock ~674 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~675 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~676 ~ ~ grass_block
+setblock ~676 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~677 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~678 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~679 ~ ~ grass_block
+setblock ~679 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~680 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~681 ~ ~ grass_block
+setblock ~681 ~1 ~ minecraft:command_block
+setblock ~682 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~683 ~ ~ grass_block
+setblock ~683 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~684 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~685 ~ ~ grass_block
+setblock ~685 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~686 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~687 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~688 ~ ~ grass_block
+setblock ~688 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~689 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~690 ~ ~ grass_block
+setblock ~690 ~1 ~ minecraft:command_block
+setblock ~691 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~692 ~ ~ grass_block
+setblock ~692 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~693 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~694 ~ ~ grass_block
+setblock ~694 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~695 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~696 ~ ~ grass_block
+setblock ~696 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~697 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~698 ~ ~ grass_block
+setblock ~698 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~699 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~700 ~ ~ grass_block
+setblock ~700 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~701 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~702 ~ ~ grass_block
+setblock ~702 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~703 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~704 ~ ~ grass_block
+setblock ~704 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~705 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~706 ~ ~ grass_block
+setblock ~706 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~707 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~708 ~ ~ grass_block
+setblock ~708 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~709 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~710 ~ ~ grass_block
+setblock ~710 ~1 ~ minecraft:command_block
+setblock ~711 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~712 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~713 ~ ~ grass_block
+setblock ~713 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~714 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~715 ~ ~ grass_block
+setblock ~715 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~716 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~717 ~ ~ grass_block
+setblock ~717 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~718 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~719 ~ ~ grass_block
+setblock ~719 ~1 ~ minecraft:command_block
+setblock ~720 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~721 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~722 ~ ~ grass_block
+setblock ~722 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~723 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~724 ~ ~ grass_block
+setblock ~724 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~725 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~726 ~ ~ grass_block
+setblock ~726 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~727 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~728 ~ ~ grass_block
+setblock ~728 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~729 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~730 ~ ~ grass_block
+setblock ~730 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~731 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~732 ~ ~ grass_block
+setblock ~732 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~733 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~734 ~ ~ grass_block
+setblock ~734 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~735 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~736 ~ ~ grass_block
+setblock ~736 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~737 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~738 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~739 ~ ~ grass_block
+setblock ~739 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~740 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~741 ~ ~ grass_block
+setblock ~741 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~742 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~743 ~ ~ grass_block
+setblock ~743 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~744 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~745 ~ ~ grass_block
+setblock ~745 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~746 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~747 ~ ~ grass_block
+setblock ~747 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~748 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~749 ~ ~ grass_block
+setblock ~749 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~750 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~751 ~ ~ grass_block
+setblock ~751 ~1 ~ minecraft:command_block
+setblock ~752 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~753 ~ ~ grass_block
+setblock ~753 ~1 ~ minecraft:command_block
+setblock ~754 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~755 ~ ~ grass_block
+setblock ~755 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~756 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~757 ~ ~ grass_block
+setblock ~757 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~758 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~759 ~ ~ grass_block
+setblock ~759 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~760 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~761 ~ ~ grass_block
+setblock ~761 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~762 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~763 ~ ~ grass_block
+setblock ~763 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~764 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~765 ~ ~ grass_block
+setblock ~765 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~766 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~767 ~ ~ grass_block
+setblock ~767 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~768 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~769 ~ ~ grass_block
+setblock ~769 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~770 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~771 ~ ~ grass_block
+setblock ~771 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~772 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~773 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~774 ~ ~ grass_block
+setblock ~774 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~775 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~776 ~ ~ grass_block
+setblock ~776 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~777 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~778 ~ ~ grass_block
+setblock ~778 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~779 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~780 ~ ~ grass_block
+setblock ~780 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~781 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~782 ~ ~ grass_block
+setblock ~782 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~783 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~784 ~ ~ grass_block
+setblock ~784 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~785 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~786 ~ ~ grass_block
+setblock ~786 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~787 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~788 ~ ~ grass_block
+setblock ~788 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~789 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~790 ~ ~ grass_block
+setblock ~790 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~791 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~792 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~793 ~ ~ grass_block
+setblock ~793 ~1 ~ minecraft:command_block
+setblock ~794 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~795 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~796 ~ ~ grass_block
+setblock ~796 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~797 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~798 ~ ~ grass_block
+setblock ~798 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~799 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~800 ~ ~ grass_block
+setblock ~800 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~801 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~802 ~ ~ grass_block
+setblock ~802 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~803 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~804 ~ ~ grass_block
+setblock ~804 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~805 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~806 ~ ~ grass_block
+setblock ~806 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~807 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~808 ~ ~ grass_block
+setblock ~808 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~809 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~810 ~ ~ grass_block
+setblock ~810 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~811 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~812 ~ ~ grass_block
+setblock ~812 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~813 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~814 ~ ~ grass_block
+setblock ~814 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~815 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~816 ~ ~ grass_block
+setblock ~816 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~817 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~818 ~ ~ grass_block
+setblock ~818 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~819 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~820 ~ ~ grass_block
+setblock ~820 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~821 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~822 ~ ~ grass_block
+setblock ~822 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~823 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~824 ~ ~ grass_block
+setblock ~824 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~825 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~826 ~ ~ grass_block
+setblock ~826 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~827 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~828 ~ ~ grass_block
+setblock ~828 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~829 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~830 ~ ~ grass_block
+setblock ~830 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~831 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~832 ~ ~ grass_block
+setblock ~832 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~833 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~834 ~ ~ grass_block
+setblock ~834 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~835 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~836 ~ ~ grass_block
+setblock ~836 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~837 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~838 ~ ~ grass_block
+setblock ~838 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p60fff record @a ~ ~ ~"}
+setblock ~839 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~840 ~ ~ grass_block
+setblock ~840 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~841 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~842 ~ ~ grass_block
+setblock ~842 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~843 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~844 ~ ~ grass_block
+setblock ~844 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~845 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~846 ~ ~ grass_block
+setblock ~846 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~847 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~848 ~ ~ grass_block
+setblock ~848 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~849 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~850 ~ ~ grass_block
+setblock ~850 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~851 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~852 ~ ~ grass_block
+setblock ~852 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~853 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~854 ~ ~ grass_block
+setblock ~854 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~855 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~856 ~ ~ grass_block
+setblock ~856 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~857 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~858 ~ ~ grass_block
+setblock ~858 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~859 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~860 ~ ~ grass_block
+setblock ~860 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~861 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~862 ~ ~ grass_block
+setblock ~862 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~863 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~864 ~ ~ grass_block
+setblock ~864 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~865 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~866 ~ ~ grass_block
+setblock ~866 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~867 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~868 ~ ~ grass_block
+setblock ~868 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~869 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~870 ~ ~ grass_block
+setblock ~870 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~871 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~872 ~ ~ grass_block
+setblock ~872 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~873 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~874 ~ ~ grass_block
+setblock ~874 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~875 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~876 ~ ~ grass_block
+setblock ~876 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~877 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~878 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~879 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~880 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~881 ~ ~ grass_block
+setblock ~881 ~1 ~ minecraft:command_block
+setblock ~882 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~883 ~ ~ grass_block
+setblock ~883 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~884 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~885 ~ ~ grass_block
+setblock ~885 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~886 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~887 ~ ~ grass_block
+setblock ~887 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~888 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~889 ~ ~ grass_block
+setblock ~889 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~890 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~891 ~ ~ grass_block
+setblock ~891 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~892 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~893 ~ ~ grass_block
+setblock ~893 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~894 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~895 ~ ~ grass_block
+setblock ~895 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~896 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~897 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~898 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~899 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~900 ~ ~ grass_block
+setblock ~900 ~1 ~ minecraft:command_block
+setblock ~901 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~902 ~ ~ grass_block
+setblock ~902 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~903 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~904 ~ ~ grass_block
+setblock ~904 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~905 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~906 ~ ~ grass_block
+setblock ~906 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~907 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~908 ~ ~ grass_block
+setblock ~908 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~909 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~910 ~ ~ grass_block
+setblock ~910 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p60fff record @a ~ ~ ~"}
+setblock ~911 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~912 ~ ~ grass_block
+setblock ~912 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~913 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~914 ~ ~ grass_block
+setblock ~914 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~915 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~916 ~ ~ grass_block
+setblock ~916 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~917 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~918 ~ ~ grass_block
+setblock ~918 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~919 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~920 ~ ~ grass_block
+setblock ~920 ~1 ~ minecraft:command_block
+setblock ~921 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~922 ~ ~ grass_block
+setblock ~922 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~923 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~924 ~ ~ grass_block
+setblock ~924 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~925 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~926 ~ ~ grass_block
+setblock ~926 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~927 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~928 ~ ~ grass_block
+setblock ~928 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~929 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~930 ~ ~ grass_block
+setblock ~930 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~931 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~932 ~ ~ grass_block
+setblock ~932 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~933 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~934 ~ ~ grass_block
+setblock ~934 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~935 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~936 ~ ~ grass_block
+setblock ~936 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~937 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~938 ~ ~ grass_block
+setblock ~938 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~939 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~940 ~ ~ grass_block
+setblock ~940 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~941 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~942 ~ ~ grass_block
+setblock ~942 ~1 ~ minecraft:command_block
+setblock ~943 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~944 ~ ~ grass_block
+setblock ~944 ~1 ~ minecraft:command_block
+setblock ~945 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~946 ~ ~ grass_block
+setblock ~946 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~947 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~948 ~ ~ grass_block
+setblock ~948 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~949 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~950 ~ ~ grass_block
+setblock ~950 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~951 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~952 ~ ~ grass_block
+setblock ~952 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~953 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~954 ~ ~ grass_block
+setblock ~954 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p60fff record @a ~ ~ ~"}
+setblock ~955 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~956 ~ ~ grass_block
+setblock ~956 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~957 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~958 ~ ~ grass_block
+setblock ~958 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~959 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~960 ~ ~ grass_block
+setblock ~960 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~961 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~962 ~ ~ grass_block
+setblock ~962 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~963 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~964 ~ ~ grass_block
+setblock ~964 ~1 ~ minecraft:command_block
+setblock ~965 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~966 ~ ~ grass_block
+setblock ~966 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~967 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~968 ~ ~ grass_block
+setblock ~968 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p63fff record @a ~ ~ ~"}
+setblock ~969 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~970 ~ ~ grass_block
+setblock ~970 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p65fff record @a ~ ~ ~"}
+setblock ~971 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~972 ~ ~ grass_block
+setblock ~972 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p63fff record @a ~ ~ ~"}
+setblock ~973 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~974 ~ ~ grass_block
+setblock ~974 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~975 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~976 ~ ~ grass_block
+setblock ~976 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~977 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~978 ~ ~ grass_block
+setblock ~978 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~979 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~980 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~981 ~ ~ grass_block
+setblock ~981 ~1 ~ minecraft:command_block
+setblock ~982 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~983 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~984 ~ ~ grass_block
+setblock ~984 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~985 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~986 ~ ~ grass_block
+setblock ~986 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~987 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~988 ~ ~ grass_block
+setblock ~988 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~989 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~990 ~ ~ grass_block
+setblock ~990 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~991 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~992 ~ ~ grass_block
+setblock ~992 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p60fff record @a ~ ~ ~"}
+setblock ~993 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~994 ~ ~ grass_block
+setblock ~994 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~995 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~996 ~ ~ grass_block
+setblock ~996 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~997 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~998 ~ ~ grass_block
+setblock ~998 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~999 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1000 ~ ~ grass_block
+setblock ~1000 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1001 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1002 ~ ~ grass_block
+setblock ~1002 ~1 ~ minecraft:command_block
+setblock ~1003 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1004 ~ ~ grass_block
+setblock ~1004 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1005 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1006 ~ ~ grass_block
+setblock ~1006 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1007 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1008 ~ ~ grass_block
+setblock ~1008 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1009 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1010 ~ ~ grass_block
+setblock ~1010 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1011 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1012 ~ ~ grass_block
+setblock ~1012 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1013 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1014 ~ ~ grass_block
+setblock ~1014 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1015 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1016 ~ ~ grass_block
+setblock ~1016 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1017 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1018 ~ ~ grass_block
+setblock ~1018 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1019 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1020 ~ ~ grass_block
+setblock ~1020 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1021 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1022 ~ ~ grass_block
+setblock ~1022 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1023 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1024 ~ ~ grass_block
+setblock ~1024 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1025 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1026 ~ ~ grass_block
+setblock ~1026 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1027 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1028 ~ ~ grass_block
+setblock ~1028 ~1 ~ minecraft:command_block
+setblock ~1029 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1030 ~ ~ grass_block
+setblock ~1030 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1031 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1032 ~ ~ grass_block
+setblock ~1032 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1033 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1034 ~ ~ grass_block
+setblock ~1034 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1035 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1036 ~ ~ grass_block
+setblock ~1036 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1037 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1038 ~ ~ grass_block
+setblock ~1038 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1039 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1040 ~ ~ grass_block
+setblock ~1040 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1041 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1042 ~ ~ grass_block
+setblock ~1042 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p46fff record @a ~ ~ ~"}
+setblock ~1043 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1044 ~ ~ grass_block
+setblock ~1044 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~1045 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1046 ~ ~ grass_block
+setblock ~1046 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~1047 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1048 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1049 ~ ~ grass_block
+setblock ~1049 ~1 ~ minecraft:command_block
+setblock ~1050 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1051 ~ ~ grass_block
+setblock ~1051 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1052 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1053 ~ ~ grass_block
+setblock ~1053 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1054 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1055 ~ ~ grass_block
+setblock ~1055 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1056 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1057 ~ ~ grass_block
+setblock ~1057 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1058 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1059 ~ ~ grass_block
+setblock ~1059 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1060 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1061 ~ ~ grass_block
+setblock ~1061 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1062 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1063 ~ ~ grass_block
+setblock ~1063 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1064 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1065 ~ ~ grass_block
+setblock ~1065 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1066 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1067 ~ ~ grass_block
+setblock ~1067 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1068 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1069 ~ ~ grass_block
+setblock ~1069 ~1 ~ minecraft:command_block
+setblock ~1070 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1071 ~ ~ grass_block
+setblock ~1071 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1072 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1073 ~ ~ grass_block
+setblock ~1073 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1074 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1075 ~ ~ grass_block
+setblock ~1075 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1076 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1077 ~ ~ grass_block
+setblock ~1077 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1078 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1079 ~ ~ grass_block
+setblock ~1079 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1080 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1081 ~ ~ grass_block
+setblock ~1081 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1082 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1083 ~ ~ grass_block
+setblock ~1083 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1084 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1085 ~ ~ grass_block
+setblock ~1085 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1086 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1087 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1088 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1089 ~ ~ grass_block
+setblock ~1089 ~1 ~ minecraft:command_block
+setblock ~1090 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1091 ~ ~ grass_block
+setblock ~1091 ~1 ~ minecraft:command_block
+setblock ~1092 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1093 ~ ~ grass_block
+setblock ~1093 ~1 ~ minecraft:command_block
+setblock ~1094 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1095 ~ ~ grass_block
+setblock ~1095 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~1096 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1097 ~ ~ grass_block
+setblock ~1097 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1098 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1099 ~ ~ grass_block
+setblock ~1099 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~1100 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1101 ~ ~ grass_block
+setblock ~1101 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1102 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1103 ~ ~ grass_block
+setblock ~1103 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1104 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1105 ~ ~ grass_block
+setblock ~1105 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1106 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1107 ~ ~ grass_block
+setblock ~1107 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1108 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1109 ~ ~ grass_block
+setblock ~1109 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1110 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1111 ~ ~ grass_block
+setblock ~1111 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1112 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1113 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1114 ~ ~ grass_block
+setblock ~1114 ~1 ~ minecraft:command_block
+setblock ~1115 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1116 ~ ~ grass_block
+setblock ~1116 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1117 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1118 ~ ~ grass_block
+setblock ~1118 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1119 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1120 ~ ~ grass_block
+setblock ~1120 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1121 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1122 ~ ~ grass_block
+setblock ~1122 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1123 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1124 ~ ~ grass_block
+setblock ~1124 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1125 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1126 ~ ~ grass_block
+setblock ~1126 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1127 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1128 ~ ~ grass_block
+setblock ~1128 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1129 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1130 ~ ~ grass_block
+setblock ~1130 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1131 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1132 ~ ~ grass_block
+setblock ~1132 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1133 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1134 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1135 ~ ~ grass_block
+setblock ~1135 ~1 ~ minecraft:command_block
+setblock ~1136 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1137 ~ ~ grass_block
+setblock ~1137 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1138 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1139 ~ ~ grass_block
+setblock ~1139 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1140 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1141 ~ ~ grass_block
+setblock ~1141 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~1142 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1143 ~ ~ grass_block
+setblock ~1143 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1144 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1145 ~ ~ grass_block
+setblock ~1145 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1146 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1147 ~ ~ grass_block
+setblock ~1147 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~1148 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1149 ~ ~ grass_block
+setblock ~1149 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1150 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1151 ~ ~ grass_block
+setblock ~1151 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1152 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1153 ~ ~ grass_block
+setblock ~1153 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1154 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1155 ~ ~ grass_block
+setblock ~1155 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1156 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1157 ~ ~ grass_block
+setblock ~1157 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1158 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1159 ~ ~ grass_block
+setblock ~1159 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~1160 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1161 ~ ~ grass_block
+setblock ~1161 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1162 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1163 ~ ~ grass_block
+setblock ~1163 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1164 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1165 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1166 ~ ~ grass_block
+setblock ~1166 ~1 ~ minecraft:command_block
+setblock ~1167 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1168 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1169 ~ ~ grass_block
+setblock ~1169 ~1 ~ minecraft:command_block
+setblock ~1170 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1171 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1172 ~ ~ grass_block
+setblock ~1172 ~1 ~ minecraft:command_block
+setblock ~1173 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1174 ~ ~ grass_block
+setblock ~1174 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~1175 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1176 ~ ~ grass_block
+setblock ~1176 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1177 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1178 ~ ~ grass_block
+setblock ~1178 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p48fff record @a ~ ~ ~"}
+setblock ~1179 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1180 ~ ~ grass_block
+setblock ~1180 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1181 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1182 ~ ~ grass_block
+setblock ~1182 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1183 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1184 ~ ~ grass_block
+setblock ~1184 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1185 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1186 ~ ~ grass_block
+setblock ~1186 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1187 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1188 ~ ~ grass_block
+setblock ~1188 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1189 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1190 ~ ~ grass_block
+setblock ~1190 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1191 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1192 ~ ~ grass_block
+setblock ~1192 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1193 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1194 ~ ~ grass_block
+setblock ~1194 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1195 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1196 ~ ~ grass_block
+setblock ~1196 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1197 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1198 ~ ~ grass_block
+setblock ~1198 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1199 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1200 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1201 ~ ~ grass_block
+setblock ~1201 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1202 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1203 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1204 ~ ~ grass_block
+setblock ~1204 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1205 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1206 ~ ~ grass_block
+setblock ~1206 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1207 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1208 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1209 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1210 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1211 ~ ~ grass_block
+setblock ~1211 ~1 ~ minecraft:command_block
+setblock ~1212 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1213 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1214 ~ ~ grass_block
+setblock ~1214 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~1215 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1216 ~ ~ grass_block
+setblock ~1216 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1217 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1218 ~ ~ grass_block
+setblock ~1218 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1219 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1220 ~ ~ grass_block
+setblock ~1220 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1221 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1222 ~ ~ grass_block
+setblock ~1222 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1223 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1224 ~ ~ grass_block
+setblock ~1224 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1225 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1226 ~ ~ grass_block
+setblock ~1226 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1227 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1228 ~ ~ grass_block
+setblock ~1228 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1229 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1230 ~ ~ grass_block
+setblock ~1230 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1231 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1232 ~ ~ grass_block
+setblock ~1232 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1233 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1234 ~ ~ grass_block
+setblock ~1234 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1235 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1236 ~ ~ grass_block
+setblock ~1236 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1237 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1238 ~ ~ grass_block
+setblock ~1238 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1239 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1240 ~ ~ grass_block
+setblock ~1240 ~1 ~ minecraft:command_block
+setblock ~1241 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1242 ~ ~ grass_block
+setblock ~1242 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~1243 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1244 ~ ~ grass_block
+setblock ~1244 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p60fff record @a ~ ~ ~"}
+setblock ~1245 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1246 ~ ~ grass_block
+setblock ~1246 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1247 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1248 ~ ~ grass_block
+setblock ~1248 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1249 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1250 ~ ~ grass_block
+setblock ~1250 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~1251 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1252 ~ ~ grass_block
+setblock ~1252 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1253 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1254 ~ ~ grass_block
+setblock ~1254 ~1 ~ minecraft:command_block
+setblock ~1255 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1256 ~ ~ grass_block
+setblock ~1256 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1257 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1258 ~ ~ grass_block
+setblock ~1258 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1259 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1260 ~ ~ grass_block
+setblock ~1260 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1261 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1262 ~ ~ grass_block
+setblock ~1262 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1263 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1264 ~ ~ grass_block
+setblock ~1264 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1265 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1266 ~ ~ grass_block
+setblock ~1266 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1267 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1268 ~ ~ grass_block
+setblock ~1268 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1269 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1270 ~ ~ grass_block
+setblock ~1270 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1271 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1272 ~ ~ grass_block
+setblock ~1272 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1273 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1274 ~ ~ grass_block
+setblock ~1274 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1275 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1276 ~ ~ grass_block
+setblock ~1276 ~1 ~ minecraft:command_block
+setblock ~1277 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1278 ~ ~ grass_block
+setblock ~1278 ~1 ~ minecraft:command_block
+setblock ~1279 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1280 ~ ~ grass_block
+setblock ~1280 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1281 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1282 ~ ~ grass_block
+setblock ~1282 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1283 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1284 ~ ~ grass_block
+setblock ~1284 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1285 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1286 ~ ~ grass_block
+setblock ~1286 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~1287 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1288 ~ ~ grass_block
+setblock ~1288 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p60fff record @a ~ ~ ~"}
+setblock ~1289 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1290 ~ ~ grass_block
+setblock ~1290 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1291 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1292 ~ ~ grass_block
+setblock ~1292 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1293 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1294 ~ ~ grass_block
+setblock ~1294 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~1295 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1296 ~ ~ grass_block
+setblock ~1296 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1297 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1298 ~ ~ grass_block
+setblock ~1298 ~1 ~ minecraft:command_block
+setblock ~1299 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1300 ~ ~ grass_block
+setblock ~1300 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1301 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1302 ~ ~ grass_block
+setblock ~1302 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p63fff record @a ~ ~ ~"}
+setblock ~1303 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1304 ~ ~ grass_block
+setblock ~1304 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p65fff record @a ~ ~ ~"}
+setblock ~1305 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1306 ~ ~ grass_block
+setblock ~1306 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p63fff record @a ~ ~ ~"}
+setblock ~1307 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1308 ~ ~ grass_block
+setblock ~1308 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~1309 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1310 ~ ~ grass_block
+setblock ~1310 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~1311 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1312 ~ ~ grass_block
+setblock ~1312 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~1313 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1314 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1315 ~ ~ grass_block
+setblock ~1315 ~1 ~ minecraft:command_block
+setblock ~1316 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1317 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1318 ~ ~ grass_block
+setblock ~1318 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1319 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1320 ~ ~ grass_block
+setblock ~1320 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1321 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1322 ~ ~ grass_block
+setblock ~1322 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1323 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1324 ~ ~ grass_block
+setblock ~1324 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~1325 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1326 ~ ~ grass_block
+setblock ~1326 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p60fff record @a ~ ~ ~"}
+setblock ~1327 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1328 ~ ~ grass_block
+setblock ~1328 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1329 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1330 ~ ~ grass_block
+setblock ~1330 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1331 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1332 ~ ~ grass_block
+setblock ~1332 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~1333 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1334 ~ ~ grass_block
+setblock ~1334 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1335 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1336 ~ ~ grass_block
+setblock ~1336 ~1 ~ minecraft:command_block
+setblock ~1337 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1338 ~ ~ grass_block
+setblock ~1338 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1339 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1340 ~ ~ grass_block
+setblock ~1340 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1341 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1342 ~ ~ grass_block
+setblock ~1342 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1343 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1344 ~ ~ grass_block
+setblock ~1344 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1345 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1346 ~ ~ grass_block
+setblock ~1346 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1347 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1348 ~ ~ grass_block
+setblock ~1348 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1349 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1350 ~ ~ grass_block
+setblock ~1350 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1351 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1352 ~ ~ grass_block
+setblock ~1352 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1353 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1354 ~ ~ grass_block
+setblock ~1354 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1355 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1356 ~ ~ grass_block
+setblock ~1356 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1357 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1358 ~ ~ grass_block
+setblock ~1358 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1359 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1360 ~ ~ grass_block
+setblock ~1360 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1361 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1362 ~ ~ grass_block
+setblock ~1362 ~1 ~ minecraft:command_block
+setblock ~1363 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1364 ~ ~ grass_block
+setblock ~1364 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1365 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1366 ~ ~ grass_block
+setblock ~1366 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1367 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1368 ~ ~ grass_block
+setblock ~1368 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1369 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1370 ~ ~ grass_block
+setblock ~1370 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1371 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1372 ~ ~ grass_block
+setblock ~1372 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1373 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1374 ~ ~ grass_block
+setblock ~1374 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1375 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1376 ~ ~ grass_block
+setblock ~1376 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p46fff record @a ~ ~ ~"}
+setblock ~1377 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1378 ~ ~ grass_block
+setblock ~1378 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~1379 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1380 ~ ~ grass_block
+setblock ~1380 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~1381 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1382 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1383 ~ ~ grass_block
+setblock ~1383 ~1 ~ minecraft:command_block
+setblock ~1384 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1385 ~ ~ grass_block
+setblock ~1385 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1386 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1387 ~ ~ grass_block
+setblock ~1387 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1388 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1389 ~ ~ grass_block
+setblock ~1389 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1390 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1391 ~ ~ grass_block
+setblock ~1391 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1392 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1393 ~ ~ grass_block
+setblock ~1393 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1394 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1395 ~ ~ grass_block
+setblock ~1395 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1396 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1397 ~ ~ grass_block
+setblock ~1397 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1398 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1399 ~ ~ grass_block
+setblock ~1399 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1400 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1401 ~ ~ grass_block
+setblock ~1401 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1402 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1403 ~ ~ grass_block
+setblock ~1403 ~1 ~ minecraft:command_block
+setblock ~1404 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1405 ~ ~ grass_block
+setblock ~1405 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1406 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1407 ~ ~ grass_block
+setblock ~1407 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1408 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1409 ~ ~ grass_block
+setblock ~1409 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1410 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1411 ~ ~ grass_block
+setblock ~1411 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~1412 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1413 ~ ~ grass_block
+setblock ~1413 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p60fff record @a ~ ~ ~"}
+setblock ~1414 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1415 ~ ~ grass_block
+setblock ~1415 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1416 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1417 ~ ~ grass_block
+setblock ~1417 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1418 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1419 ~ ~ grass_block
+setblock ~1419 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~1420 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1421 ~ ~ grass_block
+setblock ~1421 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1422 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1423 ~ ~ grass_block
+setblock ~1423 ~1 ~ minecraft:command_block
+setblock ~1424 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1425 ~ ~ grass_block
+setblock ~1425 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1426 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1427 ~ ~ grass_block
+setblock ~1427 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1428 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1429 ~ ~ grass_block
+setblock ~1429 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1430 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1431 ~ ~ grass_block
+setblock ~1431 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1432 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1433 ~ ~ grass_block
+setblock ~1433 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1434 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1435 ~ ~ grass_block
+setblock ~1435 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1436 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1437 ~ ~ grass_block
+setblock ~1437 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1438 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1439 ~ ~ grass_block
+setblock ~1439 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1440 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1441 ~ ~ grass_block
+setblock ~1441 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1442 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1443 ~ ~ grass_block
+setblock ~1443 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1444 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1445 ~ ~ grass_block
+setblock ~1445 ~1 ~ minecraft:command_block
+setblock ~1446 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1447 ~ ~ grass_block
+setblock ~1447 ~1 ~ minecraft:command_block
+setblock ~1448 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1449 ~ ~ grass_block
+setblock ~1449 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1450 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1451 ~ ~ grass_block
+setblock ~1451 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1452 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1453 ~ ~ grass_block
+setblock ~1453 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1454 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1455 ~ ~ grass_block
+setblock ~1455 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~1456 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1457 ~ ~ grass_block
+setblock ~1457 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p60fff record @a ~ ~ ~"}
+setblock ~1458 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1459 ~ ~ grass_block
+setblock ~1459 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1460 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1461 ~ ~ grass_block
+setblock ~1461 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1462 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1463 ~ ~ grass_block
+setblock ~1463 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~1464 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1465 ~ ~ grass_block
+setblock ~1465 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1466 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1467 ~ ~ grass_block
+setblock ~1467 ~1 ~ minecraft:command_block
+setblock ~1468 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1469 ~ ~ grass_block
+setblock ~1469 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1470 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1471 ~ ~ grass_block
+setblock ~1471 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p63fff record @a ~ ~ ~"}
+setblock ~1472 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1473 ~ ~ grass_block
+setblock ~1473 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p65fff record @a ~ ~ ~"}
+setblock ~1474 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1475 ~ ~ grass_block
+setblock ~1475 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p63fff record @a ~ ~ ~"}
+setblock ~1476 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1477 ~ ~ grass_block
+setblock ~1477 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~1478 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1479 ~ ~ grass_block
+setblock ~1479 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~1480 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1481 ~ ~ grass_block
+setblock ~1481 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~1482 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1483 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1484 ~ ~ grass_block
+setblock ~1484 ~1 ~ minecraft:command_block
+setblock ~1485 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1486 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1487 ~ ~ grass_block
+setblock ~1487 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1488 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1489 ~ ~ grass_block
+setblock ~1489 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1490 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1491 ~ ~ grass_block
+setblock ~1491 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1492 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1493 ~ ~ grass_block
+setblock ~1493 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p61fff record @a ~ ~ ~"}
+setblock ~1494 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1495 ~ ~ grass_block
+setblock ~1495 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p60fff record @a ~ ~ ~"}
+setblock ~1496 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1497 ~ ~ grass_block
+setblock ~1497 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1498 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1499 ~ ~ grass_block
+setblock ~1499 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1500 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1501 ~ ~ grass_block
+setblock ~1501 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p58fff record @a ~ ~ ~"}
+setblock ~1502 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1503 ~ ~ grass_block
+setblock ~1503 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1504 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1505 ~ ~ grass_block
+setblock ~1505 ~1 ~ minecraft:command_block
+setblock ~1506 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1507 ~ ~ grass_block
+setblock ~1507 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1508 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1509 ~ ~ grass_block
+setblock ~1509 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1510 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1511 ~ ~ grass_block
+setblock ~1511 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1512 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1513 ~ ~ grass_block
+setblock ~1513 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1514 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1515 ~ ~ grass_block
+setblock ~1515 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1516 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1517 ~ ~ grass_block
+setblock ~1517 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1518 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1519 ~ ~ grass_block
+setblock ~1519 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1520 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1521 ~ ~ grass_block
+setblock ~1521 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1522 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1523 ~ ~ grass_block
+setblock ~1523 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1524 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1525 ~ ~ grass_block
+setblock ~1525 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1526 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1527 ~ ~ grass_block
+setblock ~1527 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1528 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1529 ~ ~ grass_block
+setblock ~1529 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1530 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1531 ~ ~ grass_block
+setblock ~1531 ~1 ~ minecraft:command_block
+setblock ~1532 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1533 ~ ~ grass_block
+setblock ~1533 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1534 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1535 ~ ~ grass_block
+setblock ~1535 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1536 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1537 ~ ~ grass_block
+setblock ~1537 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1538 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1539 ~ ~ grass_block
+setblock ~1539 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1540 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1541 ~ ~ grass_block
+setblock ~1541 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1542 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1543 ~ ~ grass_block
+setblock ~1543 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1544 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1545 ~ ~ grass_block
+setblock ~1545 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p46fff record @a ~ ~ ~"}
+setblock ~1546 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1547 ~ ~ grass_block
+setblock ~1547 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~1548 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1549 ~ ~ grass_block
+setblock ~1549 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p44fff record @a ~ ~ ~"}
+setblock ~1550 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1551 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1552 ~ ~ grass_block
+setblock ~1552 ~1 ~ minecraft:command_block
+setblock ~1553 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1554 ~ ~ grass_block
+setblock ~1554 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1555 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1556 ~ ~ grass_block
+setblock ~1556 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1557 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1558 ~ ~ grass_block
+setblock ~1558 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1559 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1560 ~ ~ grass_block
+setblock ~1560 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1561 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1562 ~ ~ grass_block
+setblock ~1562 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1563 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1564 ~ ~ grass_block
+setblock ~1564 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1565 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1566 ~ ~ grass_block
+setblock ~1566 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p56fff record @a ~ ~ ~"}
+setblock ~1567 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1568 ~ ~ grass_block
+setblock ~1568 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1569 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1570 ~ ~ grass_block
+setblock ~1570 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1571 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1572 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1573 ~ ~ grass_block
+setblock ~1573 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1574 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1575 ~ ~ grass_block
+setblock ~1575 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p54fff record @a ~ ~ ~"}
+setblock ~1576 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1577 ~ ~ grass_block
+setblock ~1577 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p53fff record @a ~ ~ ~"}
+setblock ~1578 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1579 ~ ~ grass_block
+setblock ~1579 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1580 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1581 ~ ~ grass_block
+setblock ~1581 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1582 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1583 ~ ~ grass_block
+setblock ~1583 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p51fff record @a ~ ~ ~"}
+setblock ~1584 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1585 ~ ~ grass_block
+setblock ~1585 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1586 ~ ~ minecraft:repeater[facing=west,delay=2]
+setblock ~1587 ~ ~ grass_block
+setblock ~1587 ~1 ~ minecraft:command_block{Command:"playsound minecraft:lkrb.piano.p49fff record @a ~ ~ ~"}
+setblock ~1588 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1589 ~ ~ minecraft:repeater[facing=west,delay=4]
+setblock ~1590 ~ ~ minecraft:repeater[facing=west,delay=4]
